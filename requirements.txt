@@ -1,0 +1,5 @@
+docopt
+eventlet
+flask
+flask-socketio
+python-socketio[asyncio_client]

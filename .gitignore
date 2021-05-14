@@ -1,0 +1,10 @@
+/.idea/
+wsstreamer.iml
+/bazel-bin/
+/bazel-out/
+/bazel-testlogs/
+/bazel-wsstreamer/
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-wsstreamer
